@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BookHub</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="fav"><u>Book Name</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_book"><u>About Book</u></string>
+    <string name="me">NAME: SONU YADAV</string>
+    <string name="designed_by"><u>Designed By:</u></string>
+    <string name="about_us"><u>ABOUT US</u></string>
+    <string name="about">BookBub is a free service that helps millions of readers discover books
+        they will love while providing publishers and find new fans.
+        Upon joining, members receive  handpicked recommendations from people they trust, and real-time updates from their favorite authors.
+        BookBub works with all major ebook retailers and devices, and partners with thousands of the industry’s leading publishers and authors to promote their books.
+        BookBub was founded in 2021
+    </string>
+</resources>
